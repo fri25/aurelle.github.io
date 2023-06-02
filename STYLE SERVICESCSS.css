@@ -1,0 +1,23 @@
+body{
+    background:burlywood ;
+}
+
+h3{
+    margin: 10px;
+    padding: 100px;
+}
+
+#bouff{
+    width: 1000PX;
+    height: 300px;
+
+}
+
+#carouselExampleAutoplaying{
+    width: 1000px;
+    margin:auto;
+}
+.carousel-item{
+    width: 1000px;
+    height: 400px;
+}
